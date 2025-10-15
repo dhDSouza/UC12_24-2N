@@ -6,7 +6,7 @@
 
 ## 🎓 Ensine como um Dev
 
-Cada um de vocês (ou duplas) serão professores por um dia. Vocês deverão preparar uma mini aula (10 a 15 minutos, no máximo) sobre um tema que tenha domínio — pode ser qualquer assunto desde que use conceitos vistos no curso até agora.
+Cada um de vocês (ou trios) serão professores por um dia. Vocês deverão preparar uma mini aula (10 a 15 minutos, no máximo) sobre um tema que tenha domínio — pode ser qualquer assunto desde que use conceitos vistos no curso até agora.
 
 ### Exemplo
 
