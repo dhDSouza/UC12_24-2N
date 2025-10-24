@@ -19,7 +19,7 @@ CSS (Cascading Style Sheets) é a linguagem usada para **estilizar páginas HTML
 > Ele **separa o conteúdo (HTML)** da **apresentação (CSS)**, o que torna o código mais organizado e fácil de manter.
 
 <div align="center">
-  <img src="./esqueleto_drip.png">
+  <img src="./esqueleto_drip.png" alt="esqueleto estiloso">
   <h4>Nosso esqueleto estiloso</h4>
 </div>
 
