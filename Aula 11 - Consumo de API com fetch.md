@@ -197,10 +197,6 @@ buscarFilme();
 
 # 🧩 Exercícios
 
-Agora com a expectativa de usar `async/await` também 👇
-
----
-
 ### 1️⃣ Listar 10 tarefas (GET)
 
 `https://jsonplaceholder.typicode.com/todos`
